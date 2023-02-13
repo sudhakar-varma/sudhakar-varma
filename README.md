@@ -4,7 +4,7 @@ Currently a Senior iOS Engineer and UI UX Designer([Figma](https://www.figma.com
 
 See all the apps i developed [Click here](https://apps.apple.com/in/developer/janaagraha/id559705427?see-all=i-phone-apps)
 
-- 🔭 I’m currently working on Swachhata-MoHUA iOS App
+- 🔭 I’m currently working on iChangeMyCity iOS App
 - 🌱 I’m currently learning [Figma](https://www.figma.com/)
 
 <!--- 
