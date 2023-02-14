@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently a Senior iOS Engineer and UI UX Designer([Figma](https://www.figma.com/)) at [Janaagraha](https://www.janaagraha.org/i-change-my-city/), I built the Swachhata-MoHUA iOS App. I also responsible for designing and developing the Swachhata-MoHUA iOS app.
+Currently a Senior iOS Engineer and UI UX Designer([Figma](https://www.figma.com/)) at [Janaagraha](https://www.janaagraha.org/i-change-my-city/), I built the Swachhata-MoHUA iOS App. I also responsible for designing and developing all the iOS apps in Janaagraha.
 
 See all the apps i developed [Click here](https://apps.apple.com/in/developer/janaagraha/id559705427?see-all=i-phone-apps)
 
